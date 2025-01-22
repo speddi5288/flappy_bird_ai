@@ -3,7 +3,7 @@
 ## Overview
 A Flappy Bird-inspired game built with Python's `pygame`. The bird moves through pipes while gravity and user input control its motion. NEAT AI integration will allow the game to train an AI to play.
 
-## Current Features
+## Current Features (1/22/2025)
 - **Game Window**: 600x800 pixels.
 - **Graphics**: Animated bird (3 images), pipes, base, and background.
 - **Bird Class**: Handles position, tilt, velocity, jumping, and movement (in progress).
